@@ -1,0 +1,30 @@
+{
+  "name": "findindexall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLo33/findIndexAll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexLo33/findIndexAll/issues"
+  },
+  "homepage": "https://github.com/AlexLo33/findIndexAll#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.0"
+  }
+}
